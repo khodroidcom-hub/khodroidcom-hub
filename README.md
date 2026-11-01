@@ -1,4 +1,4 @@
-![KHODROiD — Auto parts and accessories online shop](assets/khodroid-banner.jpg)
+![KHODROiD — Auto parts and accessories online shop](assets/khodroid-cover.jpg)
 
 <div align="center">
 
