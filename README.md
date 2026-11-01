@@ -1,3 +1,5 @@
+![KHODROiD — Auto parts and accessories online shop](assets/khodroid-banner.jpg)
+
 <div align="center">
 
 # KHODROiD · خودروآیدی
